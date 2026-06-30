@@ -21,7 +21,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 ```plaintext
 📁 src/
 ├── ui/          # Clase principal con el método main
-├── model/       # Clases de dominio (Persona, Cliente, Empleado, Producto, etc.)
+├── model/       # Clases de dominio (Excursion Cultural, Paseo Lacustre, Ruta Gastronómica, Servicio Turistico)
 └── data/        # Gestor de datos
 ````
 
