@@ -1,5 +1,5 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
-# 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
+# 🧠 Actividad Formativa 4 – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
 - **Nombre completo:** Lorena Padilla Michea
@@ -10,7 +10,7 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la Evaluación Final Transversal de la asignatura *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
+Este proyecto corresponde al encargo de Llanquihue Tour *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios herencia, polimorfismo.
 
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
 
@@ -20,10 +20,9 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 
 ```plaintext
 📁 src/
-├── app/         # Clase principal con el método main
+├── ui/          # Clase principal con el método main
 ├── model/       # Clases de dominio (Persona, Cliente, Empleado, Producto, etc.)
-├── utils/       # Utilidades y validaciones
-└── interfaces/  # Interfaces implementadas por las clases
+└── data/        # Gestor de datos
 ````
 
 ---
@@ -35,7 +34,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/cosmos010101/Semana3.git
+git clone https://github.com/cosmos010101/LlanquihueTour-Semana-6.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -49,7 +48,7 @@ git clone https://github.com/cosmos010101/Semana3.git
 
 ---
 
-**Repositorio GitHub:** (https://github.com/cosmos010101/Semana3.git)
-**Fecha de entrega:** [08/06/2026]
+**Repositorio GitHub:** https://github.com/cosmos010101/LlanquihueTour-Semana-6.git
+**Fecha de entrega:** [29/06/2026]
 
 ---
