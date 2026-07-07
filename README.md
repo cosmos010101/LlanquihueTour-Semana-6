@@ -36,7 +36,7 @@ Este proyecto es una mejora de la actividad formativa 4
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/cosmos010101/LlanquihueTour-Semana-6.git
+git clone https://github.com/cosmos010101/LlanquihueTour-Semana-7.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -50,7 +50,7 @@ git clone https://github.com/cosmos010101/LlanquihueTour-Semana-6.git
 
 ---
 
-**Repositorio GitHub:** https://github.com/cosmos010101/LlanquihueTour-Semana-6.git
+**Repositorio GitHub:** https://github.com/cosmos010101/LlanquihueTour-Semana-7.git
 **Fecha de entrega:** [06/07/2026]
 
 ---
