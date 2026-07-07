@@ -3,19 +3,31 @@ package data;
 import model.ExcursionCultural;
 import model.PaseoLacustre;
 import model.RutaGastronomica;
+import model.ServicioTuristico;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class DataManager {
 
-    RutaGastronomica rg1 = new RutaGastronomica("Comida Típica Chilena", 6, 2);
-    RutaGastronomica rg2 = new RutaGastronomica("Postres del sur", 15, 3);
-    PaseoLacustre pl1 = new PaseoLacustre("Puerto Bertrand", 8, "Barco");
-    PaseoLacustre pl2 = new PaseoLacustre("Puerto Montt", 9, "Barco");
-    ExcursionCultural ec1 = new ExcursionCultural("Pomaire", 8, "Talleres de greda");
-    ExcursionCultural ec2 = new ExcursionCultural("Mercado", 3, "Mercado local");
+    private List<ServicioTuristico> servicios;
 
+    public DataManager() {
+        servicios = new ArrayList<>();
+        cargarServicios();
+    }
 
-    @Override
-    public String toString() {
-        return rg1 + "\n" + rg2 + "\n" + pl1 + "\n" + pl2 + "\n" + ec1 + "\n" + ec2;
+    public void cargarServicios() {
+
+    servicios.add(new RutaGastronomica("Comida Típica Chilena", 6, 2));
+    servicios.add(new RutaGastronomica("Postres del sur", 15, 3));
+    servicios.add(new PaseoLacustre("Puerto Bertrand", 8, "Barco"));
+    servicios.add(new PaseoLacustre("Puerto Montt", 9, "Barco"));
+    servicios.add(new ExcursionCultural("Pomaire", 8, "Talleres de greda"));
+    servicios.add(new ExcursionCultural("Mercado", 3, "Mercado local"));
+    }
+
+    public List<ServicioTuristico> obtenerServicios() {
+        return servicios;
     }
 }
