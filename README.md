@@ -1,5 +1,5 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
-# 🧠 Actividad Formativa 4 – Desarrollo Orientado a Objetos I
+# 🧠 Actividad Formativa 5 – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
 - **Nombre completo:** Lorena Padilla Michea
@@ -10,9 +10,11 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde al encargo de Llanquihue Tour *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios herencia, polimorfismo.
+Este proyecto corresponde al encargo de Llanquihue Tour *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios herencia, polimorfismo, sobrecarga, arraylists y buenas prácticas en programación.
 
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
+
+Este proyecto es una mejora de la actividad formativa 4
 
 ---
 
@@ -49,6 +51,6 @@ git clone https://github.com/cosmos010101/LlanquihueTour-Semana-6.git
 ---
 
 **Repositorio GitHub:** https://github.com/cosmos010101/LlanquihueTour-Semana-6.git
-**Fecha de entrega:** [29/06/2026]
+**Fecha de entrega:** [06/07/2026]
 
 ---
